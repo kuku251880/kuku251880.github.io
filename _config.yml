@@ -1,2 +1,5 @@
 title: kuku的博客
 theme: minima
+# 添加颜色设置
+background_color: "#f4f4f4"  # 浅灰色背景
+text_color: "#333333"        # 深灰色文字
