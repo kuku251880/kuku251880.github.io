@@ -11,10 +11,7 @@ title: 首页
 - 网站开发经验
 - 一些好书和电影推荐
 
-## 我的热门文章
 
-- [如何开始学编程](https://kuku251880.github.io/2026-04-16-first-post)
-- [我的网站构建之路](https://kuku251880.github.io/2026-04-17-second-post)
 
 ---
 
